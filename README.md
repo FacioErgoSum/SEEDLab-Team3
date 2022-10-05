@@ -2,7 +2,7 @@
 # SEED Lab - Team 3 - Fall 2022
 
 
-Using ArUco markers to control a robot.
+Using ArUco markers to control a robot. 
 
 
 ## Individual Assignments
